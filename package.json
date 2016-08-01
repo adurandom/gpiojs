@@ -1,0 +1,8 @@
+{
+   "name": "led",
+   "version": "0.0.1",
+   "description": "Basic test of GPIO",
+   "dependencies": {
+      "rpio": "^0.9.11"
+   }
+}
